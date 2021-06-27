@@ -7,7 +7,7 @@ This modern portfolio is developed and designed by [Me](https://github.com/Kshan
 1. Modern page layout for a portfolio.
 2. Easy navigation
 3. Responsiveness
-4. Progress bars (including Circular and bar)
+4. Customized and styled Progress bars (including Circular and bar)
 5. Tab system
 
 ## Technologies
