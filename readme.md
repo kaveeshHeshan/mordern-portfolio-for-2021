@@ -1,6 +1,6 @@
 # Mordern Portfolio for 2022
 
-### This modern portfolio is developed and designed by [Me](https://github.com/KshanHeshan) for 2022. Using this portfolio, interviwers can gain a clear idea about the candidate. The main advantage for the candidate is that they can give a clear idea about him/her for the people who are looking to hire candidates.
+This modern portfolio is developed and designed by [Me](https://github.com/KshanHeshan) for 2022. Using this portfolio, interviwers can gain a clear idea about the candidate. The main advantage for the candidate is that they can give a clear idea about him/her for the people who are looking to hire candidates.
 
 ## WHats interesting ?
 
